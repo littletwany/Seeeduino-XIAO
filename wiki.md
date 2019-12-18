@@ -9,7 +9,7 @@ sku: 102010328
 tags:
 ---
 
-![](https://github.com/SeeedDocument/Seeeduino-XIAO/raw/master/.img/Seeeduino-XIAO-wiki.jpg)
+![](https://github.com/littletwany/Seeeduino-XIAO/blob/master/img/XIAO.jpg)
 
 The Seeeduino XIAO is the smallest member of the Seeeduino family. It carries the powerful ATSAMD21G18A-MU which is a low-power microcontrollers. On the other hand, this little board has good performance in processing but needs less power. As a matter of fact, it is designed in a tiny size and can be used for wearable devices and small projects.
 
@@ -87,14 +87,14 @@ https://raw.githubusercontent.com/Seeed-Studio/Seeed_Platform/master/package_see
 Click **Tools-> Board-> Boards Manager...**, print "Seeeduino Femto" in the searching blank. Here comes the "Seeed SAMD Boards". Install it.
 
 
-![](https://github.com/SeeedDocument/Seeeduino-XIAO/raw/master/.img/wiki3.png)
+![](https://github.com/littletwany/Seeeduino-XIAO/blob/master/img/XIAO-wiki-2.png)
 
 
 - **Step4**
 After installing the board, click **Tools-> Board**, find "Seeeduino Femto M0" and select it. Now you have already set up the board of Seeeduino Femto for Arduino IDE.
 
 
-![](https://github.com/SeeedDocument/Seeeduino-XIAO/raw/master/.img/wiki4.png)
+![](https://github.com/littletwany/Seeeduino-XIAO/blob/master/img/XIAO-wiki-3.png)
 
 
 From now on, you can build your own project with Seeeduino Femto based on Arduino IDE platform.
@@ -103,9 +103,8 @@ From now on, you can build your own project with Seeeduino Femto based on Arduin
 
 ## Resourses
 
-- **[Zip]** [Seeeduino XIAO Repository](https://github.com/Seeed-Studio/ArduinoCore-samd/archive/master.zip)
-- **[PDF]** [SAMD datasheet](https://github.com/SeeedDocument/Seeeduino-XIAO/raw/master/res/310010095_SMD%20IC%20MCU%3BVFQFN-48%20%E8%A3%B8%E9%9C%B2%E7%84%8A%E7%9B%98_%E8%A7%84%E6%A0%BC%E4%B9%A6.pdf)
-- **[PDF]** [Hardware manual](https://github.com/SeeedDocument/Seeeduino-XIAO/raw/master/res/seeeduino%20femto_v1.0_SCH_190806.pdf)
+- **[Zip]** [Seeeduino XIAO](https://github.com/littletwany/Seeeduino-XIAO/blob/master/res/Seeeduino%20XIAO-v1.0.pdf.zip)
+- **[PDF]** [ATSAMD218A-MU datasheet](https://github.com/littletwany/Seeeduino-XIAO/blob/master/res/ATSAMD21G18A-MU-Datasheet.pdf)
 
 
 ## Tech Support
